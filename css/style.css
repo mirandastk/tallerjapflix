@@ -1,0 +1,49 @@
+.img-card-fit {
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+}
+
+.img-cont {
+    height: 200px;
+    overflow: hidden;
+    background-color: beige;
+}
+
+.card-content{
+    height: 150px;
+    overflow: auto;
+}
+
+main {
+    min-height: calc(100vh - 100px);
+  }
+
+.checked{
+    color: orange;
+}
+
+.offcanvas-top{
+    height: fit-content;
+}
+
+
+
+.offcanvas {
+    width: auto; 
+    
+}
+
+.offcanvas-end {
+    top: 0; 
+    
+}
+
+
+.offcanvas-body {
+    padding: 1rem;
+}
+
+.offcanvas-header h5 {
+    font-size: 1.25rem; 
+}
